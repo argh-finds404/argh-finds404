@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hello, I'm Argh - CSE Student and Full-Stack Developer" width="100%" />
+<img src="header.svg" alt="Hello, I'm Argh - CSE Student and Full-Stack Developer" width="100%" />
 
 <br/>
 
-<img src="assets/terminal.svg" alt="Animated terminal" width="640" />
+<img src="terminal.svg" alt="Animated terminal" width="640" />
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <h2 align="center">About Me</h2>
 
@@ -25,35 +25,35 @@
 - 🔭 Currently building **CivicNest**, a full-stack web application
 - 💼 Open to internships and junior developer opportunities
 
-<!-- GIF SLOT (optional): save your GIF as assets/coding.gif, then delete the GIF START line and the GIF END line below so it shows. -->
+<!-- GIF SLOT (optional): save your GIF as coding.gif, then delete the GIF START line and the GIF END line below so it shows. -->
 <!-- GIF START
 <div align="center">
-  <img src="assets/coding.gif" width="360" alt="coding gif" />
+  <img src="coding.gif" width="360" alt="coding gif" />
 </div>
 GIF END -->
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <h2 align="center">Skills</h2>
 
 <div align="center">
-  <img src="assets/skills.svg" alt="Skills: JavaScript, Python, C++, Assembly, HTML, CSS, React, Tailwind CSS, TanStack Query, MongoDB, Mongoose, MySQL, Git, GitHub, Postman" width="100%" />
+  <img src="skills.svg" alt="Skills: JavaScript, Python, C++, Assembly, HTML, CSS, React, Tailwind CSS, TanStack Query, MongoDB, Mongoose, MySQL, Git, GitHub, Postman" width="100%" />
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/argh-finds404/CivicNest-Client"><img src="assets/card-civicnest-client.svg" alt="CivicNest-Client" width="49%" /></a>
-  <a href="https://github.com/argh-finds404/CivicNest-Server"><img src="assets/card-civicnest-server.svg" alt="CivicNest-Server" width="49%" /></a>
-  <a href="https://github.com/argh-finds404/hero.io-app-store"><img src="assets/card-hero-io.svg" alt="hero.io-app-store" width="49%" /></a>
-  <a href="https://github.com/argh-finds404/ToyTopia-toy-store"><img src="assets/card-toytopia.svg" alt="ToyTopia-toy-store" width="49%" /></a>
-  <a href="https://github.com/argh-finds404/Joruri-seba-emergency-hotline"><img src="assets/card-joruri-seba.svg" alt="Joruri-seba-emergency-hotline" width="49%" /></a>
-  <a href="https://github.com/argh-finds404/Hospital-Management-python"><img src="assets/card-hospital-mgmt.svg" alt="Hospital-Management-python" width="49%" /></a>
+  <a href="https://github.com/argh-finds404/CivicNest-Client"><img src="card-civicnest-client.svg" alt="CivicNest-Client" width="49%" /></a>
+  <a href="https://github.com/argh-finds404/CivicNest-Server"><img src="card-civicnest-server.svg" alt="CivicNest-Server" width="49%" /></a>
+  <a href="https://github.com/argh-finds404/hero.io-app-store"><img src="card-hero-io.svg" alt="hero.io-app-store" width="49%" /></a>
+  <a href="https://github.com/argh-finds404/ToyTopia-toy-store"><img src="card-toytopia.svg" alt="ToyTopia-toy-store" width="49%" /></a>
+  <a href="https://github.com/argh-finds404/Joruri-seba-emergency-hotline"><img src="card-joruri-seba.svg" alt="Joruri-seba-emergency-hotline" width="49%" /></a>
+  <a href="https://github.com/argh-finds404/Hospital-Management-python"><img src="card-hospital-mgmt.svg" alt="Hospital-Management-python" width="49%" /></a>
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <h2 align="center">Let's Connect</h2>
 
@@ -69,4 +69,4 @@ LINKS END -->
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
