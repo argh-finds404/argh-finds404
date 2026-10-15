@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Hello, I'm Argh. CSE Student and Full-Stack Developer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#141b3a"/>
+  </linearGradient>
+  <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="700" y2="0" spreadMethod="reflect">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f472b6"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="800 0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="o1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.6"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o3"><stop offset="0" stop-color="#f472b6" stop-opacity="0.45"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+  </pattern>
+  <clipPath id="card"><rect width="1000" height="260" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <rect width="1000" height="260" fill="url(#grid)"/>
+  <circle cx="170" cy="70" r="190" fill="url(#o1)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;120 40;40 -20;0 0" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="210" r="210" fill="url(#o2)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-140 -50;-40 30;0 0" dur="17s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="20" r="150" fill="url(#o3)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-90 60;70 40;0 0" dur="19s" repeatCount="indefinite"/>
+  </circle>
+  <text x="500" y="72" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" letter-spacing="6" fill="#9db4ff" fill-opacity="0.9">HELLO, I'M</text>
+  <text x="500" y="150" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="84" font-weight="800" fill="url(#name)">Argh</text>
+  <text x="500" y="192" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="22" fill="#c9d1d9">CSE Student  ·  Full-Stack Developer</text>
+  <text x="500" y="226" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="16" fill="#8b949e" opacity="1">React  ·  Tailwind CSS  ·  MongoDB  ·  TanStack Query<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.303;0.333;0.970;1" dur="12s" repeatCount="indefinite"/></text><text x="500" y="226" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="16" fill="#8b949e" opacity="0">C++  ·  Python  ·  Assembly<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.363;0.637;0.667;1" dur="12s" repeatCount="indefinite"/></text><text x="500" y="226" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace" font-size="16" fill="#8b949e" opacity="0">CSE @ RUET  ·  Bangladesh<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.667;0.697;0.970;1" dur="12s" repeatCount="indefinite"/></text>
+</g>
+<rect x="0.5" y="0.5" width="999" height="259" rx="22" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+</svg>
