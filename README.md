@@ -20,7 +20,7 @@ I build things for the web, and I take other people's things apart to see how th
 - 🧪 Always poking at a new stack, just to see what it can do
 - 💼 **Open to internships**. Got something cool? [Say hi](mailto:orghodutta@gmail.com)
 
-👀 **Wanna see more of my work?** Check out my [portfolio](#) *(dropping soon)*
+👀 **Wanna see more of my work?** Check out my [live portfolio here](https://my-portfolio-red-rho-71.vercel.app/) 🚀
 
 <img src="https://komarev.com/ghpvc/?username=argh-finds404&label=PROFILE%20VIEWS&color=8b5cf6&style=flat-square" alt="Profile views" />
 
@@ -125,4 +125,4 @@ I build things for the web, and I take other people's things apart to see how th
 </p>
 
 <!-- Portfolio: replace "#" with your portfolio URL when it's live. -->
-<p align="center"><a href="#"><b>✨ Wanna see what I've built? Visit my portfolio →</b></a></p>
+<p align="center"><a href="https://my-portfolio-red-rho-71.vercel.app/"><b>✨ Wanna see what I've built? Visit my portfolio →</b></a></p>
