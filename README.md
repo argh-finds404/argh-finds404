@@ -45,11 +45,11 @@ I build things for the web, and I take other people's things apart to see how th
 <table align="center">
   <tr>
     <td valign="top">
-      <img src="assets/spacer.svg" width="400" height="1" alt="" /><br/>
-      <b>GitPrism</b> &nbsp;<sub><code>in progress</code></sub><br/>
-      <sub>What I'm cooking right now. Stay tuned.</sub><br/>
-      <code>Next.js</code> <code>PostgreSQL</code>
-    </td>
+  <img src="assets/spacer.svg" width="400" height="1" alt="" /><br/>
+  <b><a href="https://github.com/argh-finds404/GitPrism">GitPrism</a></b> &nbsp;<sub><code>in progress</code></sub><br/>
+  <sub>What I'm cooking right now. Stay tuned.</sub><br/>
+  <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>React Three Fiber</code> <code>Motion</code> <code>PostgreSQL</code> <code>Prisma</code>
+</td>
     <td valign="top">
       <img src="assets/spacer.svg" width="400" height="1" alt="" /><br/>
       <b><a href="https://github.com/argh-finds404/CivicNest-Client">CivicNest</a></b><br/>
