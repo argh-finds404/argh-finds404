@@ -46,8 +46,22 @@ I build things for the web, and I take other people's things apart to see how th
   <tr>
     <td valign="top">
   <img src="assets/spacer.svg" width="400" height="1" alt="" /><br/>
+  <b><a href="https://github.com/argh-finds404/delta-mrv">Delta-MRV</a></b> &nbsp;<sub><code>Environmental Protocol</code></sub><br/>
+  <sub>Multi-tenant MRV with MapLibre, AI auditing, and EVM trails.</sub><br/>
+  <code>Next.js 16</code> <code>TypeScript</code> <code>PostgreSQL (pgvector)</code> <code>Prisma</code> <code>MapLibre GL JS</code> <code>Gemini</code>
+</td>
+    <td valign="top">
+      <img src="assets/spacer.svg" width="400" height="1" alt="" /><br/>
+      <b><a href="https://github.com/argh-finds404/THEIA-Moon-Landing-Page">THEIA-Moon Landing Page</a></b><br/>
+      <sub>A scroll-driven lunar journey built from real astronomy and NASA data.</sub><br/>
+      <code>React 19</code> <code>TypeScript</code> <code>Tailwind 4</code> <code>Vite</code> <code>WebGL2</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+  <img src="assets/spacer.svg" width="400" height="1" alt="" /><br/>
   <b><a href="https://github.com/argh-finds404/GitPrism">GitPrism</a></b> &nbsp;<sub><code>Git developer tool</code></sub><br/>
-  <sub>What I'm cooking right now. Stay tuned.</sub><br/>
+  <sub>Codebase Intelligence Platform with visualization.</sub><br/>
   <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>React Three Fiber</code> <code>Motion</code> <code>PostgreSQL</code> <code>Prisma</code>
 </td>
     <td valign="top">
