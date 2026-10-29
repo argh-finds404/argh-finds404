@@ -14,7 +14,7 @@
 
 I build things for the web, and I take other people's things apart to see how they tick. Hand me a new stack and I'll be deep in its docs by evening.
 
-- 🛠️ Building **GitPrism** right now with Next.js + PostgreSQL, and levelling up on backend
+- 🛠️ Building **Delta-MRV** right now with Next.js 16 + pgvector, and levelling up on AI auditing & EVM trails
 - 🔍 I learn by reverse-engineering: break it, read the source, rebuild it better
 - 📚 Docs person. I read them, and I actually write them too
 - 🧪 Always poking at a new stack, just to see what it can do
