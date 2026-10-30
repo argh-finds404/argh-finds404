@@ -10,7 +10,7 @@
 
 ## Hᴇʏ, ɪ'ᴍ Sʜᴏᴜᴍɪᴋ 👋
 
-*a.k.a. Argh · full-stack dev in the making · CSE @ RUET*
+*Student · full-stack dev in the making · CSE @ RUET*
 
 I build things for the web, and I take other people's things apart to see how they tick. Hand me a new stack and I'll be deep in its docs by evening.
 
